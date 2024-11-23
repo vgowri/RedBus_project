@@ -1,0 +1,403 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Arrival,Rating,Fare,Seat_Available
+Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,06h 40m,05:00,3.6,495,54 Seats available
+Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:40,05h 20m,04:00,3.4,450,28 Seats available
+Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Vivek Travels,A/C Seater (2+2),13:25,07h 00m,20:25,1.0,450,45 Seats available
+Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Vivek Travels,A/C Seater / Sleeper (2+2),13:30,07h 00m,20:30,1.0,400,72 Seats available
+Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,05h 32m,02:00,2.0,500,6 Seats available
+Patna (Bihar) to Bettiah,https://www.redbus.in/bus-tickets/patna-to-bettiah,V.I.P Travels,A/C Seater / Sleeper (2+2),21:40,06h 00m,03:40,2.8,350,51 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Bihar state road transport corporation (BSRTC) - 150571,Non AC Seater (2+2),21:20,03h 40m,01:00,3.7,230,33 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,04h 55m,03:15,3.0,495,54 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Siddhi Vinayak (BSRTC U/T),Non AC Seater (2+2),12:15,04h 00m,16:15,2.2,220,35 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Siddhi Vinayak (BSRTC U/T),Non AC Seater (2+2),15:30,04h 00m,19:30,2.2,220,35 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:00,06h 00m,04:00,4.5,495,54 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),13:53,05h 27m,19:20,2.3,400,12 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Panwar Travels,A/C Seater / Sleeper (2+1),18:10,03h 25m,21:35,2.7,970,32 Seats available
+Patna (Bihar) to Motihari,https://www.redbus.in/bus-tickets/patna-to-motihari,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,03h 02m,23:30,1.2,500,6 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Bihar state road transport corporation (BSRTC) - 146159,Non AC Seater (2+2),14:30,05h 00m,19:30,2.6,285,31 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Bihar state road transport corporation (BSRTC) - 170674,Non AC Seater (2+2),20:30,05h 30m,02:00,2.3,285,25 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Mata Di,AC Seater (2+2),12:30,06h 20m,18:50,4.1,405,41 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Mata Di,AC Seater (2+2),12:39,06h 06m,18:45,4.1,405,41 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Mata Di,AC Seater (2+2),12:41,06h 24m,19:05,4.1,405,41 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Mata Di,AC Seater (2+2),12:44,06h 16m,19:00,4.1,405,41 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Vivek Travels,A/C Seater / Sleeper (2+1),13:15,07h 15m,20:30,1.0,450,54 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Saurabh Travels,A/C Seater Push Back (2+2),15:00,17h 45m,08:45,1.0,450,42 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Saurabh Travels,A/C Seater Push Back (2+2),15:00,06h 00m,21:00,1.0,450,42 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Saurabh Travels,A/C Seater Push Back (2+2),15:15,06h 05m,21:20,1.0,450,42 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Saurabh Travels,A/C Seater Push Back (2+2),15:21,06h 24m,21:45,1.0,450,42 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Saurabh Travels,A/C Seater Push Back (2+2),15:30,06h 45m,22:15,1.0,450,42 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Saurabh Travels,A/C Seater Push Back (2+2),15:37,06h 38m,22:15,1.0,450,42 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),21:55,07h 36m,05:31,2.5,495,40 Seats available
+Bettiah to Patna (Bihar),https://www.redbus.in/bus-tickets/bettiah-to-patna,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:00,07h 00m,05:00,2.0,500,9 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Chandani Travels,A/C Seater / Sleeper (2+2),19:30,16h 00m,11:30,1.2,1199,17 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),20:20,14h 30m,10:50,3.2,1614,35 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Rajdhani Express,A/C Seater / Sleeper (2+2),15:00,16h 00m,07:00,1.6,1139,24 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),19:00,16h 49m,11:49,1.2,1500,54 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),16:50,20h 10m,13:00,2.6,2699,1 Seat available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Bhumi Travels,A/C Seater / Sleeper (2+2),15:30,17h 00m,08:30,2.4,1699,41 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+2),20:00,18h 30m,14:30,1.3,1709,60 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Jay Maa Kali Travels,Bharat Benz A/C Seater / Sleeper (2+2),16:00,16h 30m,08:30,1.9,3000,55 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,New Travel India,A/C Seater / Sleeper (2+1),18:05,13h 55m,08:00,1.2,2499,14 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,New Travel India,A/C Seater / Sleeper (2+1),17:40,14h 50m,08:30,1.2,2499,14 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,New Travel India,A/C Seater / Sleeper (2+1),17:35,14h 55m,08:30,1.2,2499,14 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,New Travel India,A/C Seater / Sleeper (2+1),18:15,13h 55m,08:10,1.2,2499,30 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,New Travel India,A/C Seater / Sleeper (2+1),18:15,13h 45m,08:00,1.2,2499,14 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,New Travel India,A/C Seater / Sleeper (2+1),17:30,15h 30m,09:00,1.2,2499,16 Seats available
+Gopalganj (Bihar) to Delhi,https://www.redbus.in/bus-tickets/gopalganj-to-delhi,Ashok Travels,A/C Seater / Sleeper (2+2),19:00,16h 00m,11:00,2.3,1249,30 Seats available
+Patna (Bihar) to Balmiki Nagar (bihar),https://www.redbus.in/bus-tickets/patna-to-balmiki-nagar-bihar,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:40,08h 20m,07:00,2.2,450,28 Seats available
+Patna (Bihar) to Balmiki Nagar (bihar),https://www.redbus.in/bus-tickets/patna-to-balmiki-nagar-bihar,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),20:28,09h 32m,06:00,1.7,500,6 Seats available
+Balmiki Nagar (bihar) to Patna (Bihar),https://www.redbus.in/bus-tickets/balmiki-nagar-bihar-to-patna,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:30,10h 30m,05:00,2.2,500,9 Seats available
+Delhi to Motihari,https://www.redbus.in/bus-tickets/delhi-to-motihari,Travel Point World LLP,A/C Seater / Sleeper (2+2),14:30,16h 30m,07:00,1.5,1899,44 Seats available
+Delhi to Motihari,https://www.redbus.in/bus-tickets/delhi-to-motihari,Travel Point World LLP,A/C Seater / Sleeper (2+2),16:00,16h 01m,08:01,1.2,1899,43 Seats available
+Delhi to Motihari,https://www.redbus.in/bus-tickets/delhi-to-motihari,New India Bus Service,A/C Seater / Sleeper (2+2),15:30,17h 30m,09:00,1.0,1699,22 Seats available
+Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,09h 05m,06:30,3.5,468,36 Seats available
+Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,09h 05m,06:05,1.0,963,30 Seats available
+Patna (Bihar) to Katihar,https://www.redbus.in/bus-tickets/patna-to-katihar,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,09h 05m,05:05,1.5,919,26 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,08h 15m,05:40,3.6,468,36 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,08h 55m,06:20,4.2,648,21 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Divya Rath,A/C Sleeper (2+1),20:45,09h 00m,05:45,4.5,648,24 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,AITIANA CRUISELINERS,Bharat Benz A/C Seater /Sleeper (2+1),20:20,09h 10m,05:30,4.2,500,17 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Aitiana Airwings,Benz A/C Sleeper (2+1),21:00,09h 00m,06:00,4.1,650,17 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Raj Bus Services,A/C Seater / Sleeper (2+1),19:25,09h 40m,05:05,4.3,463,18 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Mahuli Travels,A/C Seater/Sleeper (2+1),20:50,09h 00m,05:50,3.7,438,44 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,MAA KAMAKHYA DREAMLINER,A/C Seater / Sleeper (2+1),20:40,08h 20m,05:00,3.7,495,24 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+1),20:25,08h 50m,05:15,3.2,650,24 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Raj Bus Services,A/C Seater / Sleeper (2+1),16:55,10h 10m,03:05,3.9,463,2 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),18:25,09h 10m,03:35,3.9,463,10 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,08h 50m,05:20,3.2,600,27 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,3.8,600,26 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Shatabdi Travels,A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,3.1,650,41 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),20:35,09h 00m,05:35,3.1,463,13 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Shivam Travels,NON A/C Seater / Sleeper (2+2),21:00,09h 30m,06:30,1.1,450,40 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Jay Jagdambay Tour And Travels,A/C Seater / Sleeper (2+1),17:00,09h 30m,02:30,2.1,630,8 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sree Balaji Travels,A/C Seater / Sleeper (2+1),20:15,08h 45m,05:00,1.9,450,21 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Hawa Hawai,A/C Seater / Sleeper (2+1),20:00,09h 00m,05:00,2.5,540,10 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,10h 00m,06:20,2.8,513,37 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,09h 15m,05:15,2.1,656,26 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sameer Travels (GT),A/C Seater / Sleeper (2+2),16:30,10h 00m,02:30,2.7,585,12 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Raj Rath,A/C Seater / Sleeper (2+2),20:30,08h 45m,05:15,2.5,500,6 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Aarush Krrish,A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,2.0,540,38 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Shri Sai Krishna Luxury,A/C Seater / Sleeper (2+1),21:15,09h 00m,06:15,2.2,600,46 Seats available
+Patna (Bihar) to Purnea,https://www.redbus.in/bus-tickets/patna-to-purnea,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,09h 15m,06:15,2.1,700,19 Seats available
+Motihari to Delhi,https://www.redbus.in/bus-tickets/motihari-to-delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),18:20,16h 30m,10:50,1.7,1614,32 Seats available
+Motihari to Delhi,https://www.redbus.in/bus-tickets/motihari-to-delhi,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),17:35,18h 14m,11:49,1.7,1500,54 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,10h 35m,07:30,3.1,605,29 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:35,09h 40m,06:15,3.8,990,5 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,11h 15m,06:30,2.7,700,4 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Pawapuri Motors,A/C Seater / Sleeper (2+1),17:00,12h 45m,05:45,1.9,810,9 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:45,09h 30m,04:15,1.8,1100,2 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:15,11h 15m,05:30,1.7,899,10 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Jai Mata Di Tour and Travels,AC Seater (2+2),20:00,09h 00m,05:00,2.3,1100,4 Seats available
+Ranchi to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-muzaffarpur,Tejas Maa Bhawani,Non AC Seater (2+2),17:45,11h 45m,05:30,1.8,725,21 Seats available
+Patna (Bihar) to Kathmandu,https://www.redbus.in/bus-tickets/patna-to-kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),13:30,16h 45m,06:15,2.3,1015,7 Seats available
+Patna (Bihar) to Kathmandu,https://www.redbus.in/bus-tickets/patna-to-kathmandu,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),13:15,16h 15m,05:30,2.9,1040,4 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,08h 35m,05:30,3.7,500,29 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Mahuli Travels,A/C Seater/Sleeper (2+1),21:15,09h 00m,06:15,4.0,481,32 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Prithvi Vahan,Bharat Benz A/C Sleeper (2+1),21:30,07h 40m,05:10,4.7,810,8 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Divya Rath,A/C Sleeper (2+1),22:10,07h 20m,05:30,4.3,925,15 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Rajdhani bus service,A/C Sleeper (2+1),23:00,06h 50m,05:50,4.0,925,1 Seat available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:00,09h 35m,06:35,3.8,601,16 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Rekha Luxury,A/C Seater / Sleeper (2+1),20:30,09h 30m,06:00,3.7,580,8 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),21:15,08h 45m,06:00,3.0,416,9 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Puja Rath,A/C Seater / Sleeper (2+1),20:30,09h 00m,05:30,3.8,540,20 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Shubham Travels,A/C Seater / Sleeper (2+1),22:00,07h 40m,05:40,3.1,850,28 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Chandralok Travels,A/C Seater / Sleeper (2+1),21:35,08h 55m,06:30,3.6,525,44 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,08h 00m,05:00,3.2,570,1 Seat available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,VIJAY RATH,A/C Seater / Sleeper (2+1),22:00,08h 10m,06:10,3.0,698,24 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),16:45,09h 55m,02:40,3.0,800,3 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Pihu (yvts),A/C Seater / Sleeper (2+1),21:55,08h 15m,06:10,1.5,650,7 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Udan Pari Dlx,A/C Seater / Sleeper (2+1),17:30,08h 30m,02:00,1.9,900,15 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Maharani Express,A/C Seater / Sleeper (2+2),23:15,09h 00m,08:15,1.8,720,24 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:35,07h 25m,04:00,1.5,990,14 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,BD Parivahan,A/C Seater / Sleeper (2+2),22:00,08h 00m,06:00,2.4,1200,57 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,09h 15m,04:30,2.1,1000,4 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:15,09h 46m,04:01,2.1,899,10 Seats available
+Ranchi to Patna (Bihar),https://www.redbus.in/bus-tickets/ranchi-to-patna,Tejas Maa Bhawani,Non AC Seater (2+2),17:45,10h 16m,04:01,0,725,21 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),23:15,06h 15m,05:30,3.2,377,32 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),23:30,07h 05m,06:35,3.6,601,19 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Rekha Luxury,A/C Seater / Sleeper (2+1),23:35,06h 25m,06:00,3.9,580,24 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,BD Parivahan,A/C Seater / Sleeper (2+2),20:00,10h 00m,06:00,1.5,1200,57 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Tejas Maa Bhawani,Non AC Seater (2+2),21:00,07h 01m,04:01,2.1,725,21 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 30m,05:00,1.2,570,19 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Prithvi Vahan,Bharat Benz A/C Sleeper (2+1),23:45,05h 25m,05:10,4.5,810,8 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Mahuli Travels,A/C Seater/Sleeper (2+1),23:59,06h 16m,06:15,2.9,540,47 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),20:00,06h 40m,02:40,3.0,800,8 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),21:35,06h 26m,04:01,2.1,899,10 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Tejas Maa Bhawani,A/C Sleeper (2+1),21:45,06h 05m,03:50,2.1,749,26 Seats available
+Hazaribagh to Patna (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-patna,Arzoo Travels,A/C Seater Push Back (2+2),23:00,06h 35m,05:35,1.2,1234,49 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),18:00,12h 00m,06:00,3.9,605,16 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),18:10,10h 15m,04:25,3.7,990,18 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),19:15,10h 45m,06:00,2.2,700,7 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Jai Mata Di Tour and Travels,AC Seater (2+2),17:45,11h 00m,04:45,2.5,750,13 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),18:00,10h 30m,04:30,2.2,1000,24 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Tejas Maa Bhawani,A/C Sleeper (2+1),19:05,10h 55m,06:00,2.8,1100,26 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Tejas Maa Bhawani,AC Sleeper (2+1),18:45,11h 15m,06:00,2.9,2500,2 Seats available
+Muzaffarpur (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/muzaffarpur-to-ranchi,Tejas Maa Bhawani,Non AC Seater (2+2),18:30,11h 00m,05:30,2.9,2000,41 Seats available
+Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Bihar state road transport corporation (BSRTC) - 150571,Non AC Seater (2+2),21:20,07h 10m,04:30,3.4,293,33 Seats available
+Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,sapna travels(A.T),A/C Seater / Sleeper (2+2),21:00,08h 00m,05:00,2.8,500,34 Seats available
+Patna (Bihar) to Raxaul,https://www.redbus.in/bus-tickets/patna-to-raxaul,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:00,07h 00m,05:00,2.2,495,54 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Bihar state road transport corporation (BSRTC) - 156563,AC Seater (2+2),19:00,09h 00m,04:00,3.1,468,35 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),20:10,08h 50m,05:00,4.0,648,19 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Aitiana Airwings,Benz A/C Sleeper (2+1),21:00,08h 00m,05:00,4.3,650,7 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Raj Bus Services,A/C Seater / Sleeper (2+1),13:35,07h 00m,20:35,3.4,463,2 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,MAA KAMAKHYA DREAMLINER,A/C Seater / Sleeper (2+1),20:10,08h 50m,05:00,3.8,495,16 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,AITIANA CRUISELINERS,A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,3.6,600,5 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Hawa Hawai,A/C Seater / Sleeper (2+1),20:30,09h 00m,05:30,3.2,495,7 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,09h 00m,06:00,4.0,600,16 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Aarush Krrish,A/C Seater / Sleeper (2+1),21:00,08h 30m,05:30,2.8,540,36 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Raj Bus Services,A/C Seater / Sleeper (2+2),22:45,09h 00m,07:45,3.4,463,1 Seat available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Shatabdi Travels,A/C Seater / Sleeper (2+1),19:50,09h 00m,04:50,2.1,650,24 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Sree Balaji Travels,A/C Seater / Sleeper (2+1),19:30,09h 00m,04:30,1.0,450,4 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,07h 15m,04:15,1.1,449,24 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Meera Travels (Yvts),A/C Seater / Sleeper (2+1),20:15,10h 00m,06:15,1.3,600,5 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Sameer Travels (GT),A/C Seater / Sleeper (2+2),23:40,06h 50m,06:30,2.0,550,21 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Shree Sai Krishna Luxury,A/C Seater / Sleeper (2+1),20:00,09h 00m,05:00,3.8,600,28 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),21:00,08h 20m,05:20,3.2,599,15 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Vivek Travels (yvts),A/C Seater/Sleeper (2+1),22:00,07h 20m,05:20,1.3,650,13 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Shivam Travels,NON A/C Seater / Sleeper (2+2),20:30,08h 30m,05:00,1.1,450,43 Seats available
+Purnea to Patna (Bihar),https://www.redbus.in/bus-tickets/purnea-to-patna,Sri Krishna Rath,A/C Semi Sleeper / Sleeper (2+2),18:30,08h 15m,02:45,0,449,76 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,07h 19m,04:00,2.9,396,16 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Rajdhani bus service,Non A/C Seater / Sleeper (2+1),18:30,07h 00m,01:30,3.3,555,37 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Rekha Luxury,A/C Seater / Sleeper (2+1),20:00,08h 00m,04:00,4.1,580,42 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),20:00,07h 30m,03:30,3.3,473,14 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,06h 00m,02:30,3.0,570,1 Seat available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Rajshri Travels,A/C Seater / Sleeper (2+1),22:00,07h 00m,05:00,3.3,449,36 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Bhawani Travels,NON A/C Seater Push Back (2+2),13:25,07h 50m,21:15,2.3,449,40 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Maharani Express,A/C Seater / Sleeper (2+2),18:00,06h 55m,00:55,2.3,720,36 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:40,06h 00m,02:40,2.1,603,43 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Puja Rath,A/C Seater / Sleeper (2+1),21:00,06h 30m,03:30,1.8,540,21 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:15,06h 15m,03:30,1.6,438,20 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Sri Krishna Rath,A/C Seater / Sleeper (2+1),22:15,06h 15m,04:30,1.6,438,16 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,KRISHNA RATH LUXURY,A/C Seater / Sleeper (2+1),21:00,06h 00m,03:00,1.9,495,36 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Chandralok Travels,A/C Seater / Sleeper (2+1),21:20,07h 10m,04:30,2.2,525,47 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Tejas Maa Bhawani,Non AC Seater (2+2),21:30,05h 00m,02:30,2.1,2000,41 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Divya Rath,A/C Sleeper (2+1),20:15,06h 45m,03:00,4.3,925,38 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),20:27,06h 48m,03:15,4.0,925,41 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:25,06h 55m,04:20,4.8,694,41 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),21:30,06h 00m,03:30,3.0,800,10 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,BD Parivahan,A/C Seater / Sleeper (2+2),19:00,07h 00m,02:00,1.5,1200,57 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Tejas Maa Bhawani,A/C Sleeper (2+1),21:30,06h 30m,04:00,2.1,1100,26 Seats available
+Patna (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/patna-to-hazaribagh,Tejas Maa Bhawani,AC Sleeper (2+1),21:30,05h 55m,03:25,2.1,2500,2 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Yogmaya,NON A/C Seater / Sleeper (2+2),20:45,05h 45m,02:30,1.2,350,64 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Shiv Ganga Travels,A/C Seater (2+2),11:56,04h 04m,16:00,2.2,330,36 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),12:00,05h 25m,17:25,1.3,330,12 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Trimurti Travels,Tata A/C Seater (2+2),12:15,03h 30m,15:45,1.2,300,44 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Shiv Ganga Travels,A/C Seater (2+2),13:09,03h 51m,17:00,1.0,330,36 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Trimurti Travels,Tata A/C Seater (2+2),13:45,03h 30m,17:15,1.0,300,45 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Ayan Benz,A/C Seater / Sleeper (2+1),20:00,04h 30m,00:30,1.2,315,42 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Shiv Ganga Travels,NON A/C Seater (2+2),15:29,04h 01m,19:30,1.2,300,36 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Shiv Ganga Travels,NON A/C Seater (2+2),17:09,04h 21m,21:30,3.0,300,36 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Rukmanti (AT),A/C Seater / Sleeper (2+1),20:00,04h 00m,00:00,1.6,508,36 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,03h 00m,23:00,2.9,656,26 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+1),20:25,03h 20m,23:45,2.9,650,30 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,03h 20m,23:50,1.0,550,44 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Krishna Airwings,A/C Seater / Sleeper (2+2),20:30,03h 00m,23:30,1.6,500,59 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,03h 00m,00:00,2.8,700,19 Seats available
+Patna (Bihar) to Darbhanga,https://www.redbus.in/bus-tickets/patna-to-darbhanga,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,03h 55m,01:20,0,648,21 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,09h 19m,06:00,2.7,525,16 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Rekha Luxury,A/C Seater / Sleeper (2+1),20:00,10h 00m,06:00,4.1,580,17 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),20:27,07h 48m,04:15,4.4,925,11 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Prithvi Vahan,Bharat Benz A/C Sleeper (2+1),20:15,08h 45m,05:00,4.3,810,16 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,VIJAY RATH,A/C Seater / Sleeper (2+1),19:16,09h 29m,04:45,4.5,735,28 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Divya Rath,A/C Sleeper (2+1),20:15,08h 15m,04:30,4.4,925,9 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),20:00,08h 30m,04:30,3.7,473,14 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:15,07h 15m,04:30,1.5,438,20 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Sri Krishna Rath,A/C Seater / Sleeper (2+1),22:15,07h 15m,05:30,1.5,612,15 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Rajdhani bus service,A/C Sleeper (2+1),20:05,07h 55m,04:00,4.0,925,6 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:25,09h 20m,06:45,3.7,694,26 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Puja Rath,A/C Seater / Sleeper (2+1),21:00,08h 40m,05:40,3.2,540,21 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,09h 00m,05:30,3.1,570,1 Seat available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Pihu (yvts),A/C Seater / Sleeper (2+1),19:30,08h 40m,04:10,3.0,700,24 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Yarana Travels,NON AC Seater / Sleeper 2+1,18:01,08h 59m,03:00,3.1,550,15 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),21:30,08h 30m,06:00,3.0,800,7 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,KRISHNA RATH LUXURY,A/C Seater / Sleeper (2+1),21:00,08h 30m,05:30,2.6,495,36 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Maharani Express,A/C Seater / Sleeper (2+2),18:00,09h 45m,03:45,2.1,720,36 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Chandralok Travels,A/C Seater / Sleeper (2+1),21:20,08h 50m,06:10,2.4,525,47 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Maa Bhawani Travels,A/C Seater / Sleeper (2+1),21:45,07h 45m,05:30,2.4,540,22 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),21:30,08h 30m,06:00,2.4,750,31 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Tejas Maa Bhawani,Non AC Seater (2+2),21:30,08h 00m,05:30,2.7,2000,41 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:15,08h 10m,04:25,1.9,990,18 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,BD Parivahan,A/C Seater / Sleeper (2+2),19:00,09h 00m,04:00,1.5,1200,57 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Tejas Maa Bhawani,A/C Sleeper (2+1),21:30,08h 30m,06:00,1.9,1100,26 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Tejas Maa Bhawani,AC Sleeper (2+1),21:30,08h 30m,06:00,2.7,2500,2 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Rajdhani bus service,Non A/C Seater / Sleeper (2+1),18:30,08h 45m,03:15,2.1,555,29 Seats available
+Patna (Bihar) to Ranchi,https://www.redbus.in/bus-tickets/patna-to-ranchi,Udan Pari Dlx,A/C Seater / Sleeper (2+1),19:00,09h 00m,04:00,1.5,900,6 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,07h 10m,04:35,3.6,468,36 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,08h 05m,05:30,3.8,648,21 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Divya Rath,A/C Sleeper (2+1),20:45,08h 00m,04:45,4.3,648,22 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,08h 50m,05:10,3.2,513,44 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,AITIANA CRUISELINERS,Bharat Benz A/C Seater /Sleeper (2+1),20:20,08h 10m,04:30,3.5,500,17 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Hawa Hawai,A/C Seater / Sleeper (2+1),20:00,08h 00m,04:00,3.0,540,10 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Mahuli Travels,A/C Seater/Sleeper (2+1),20:50,07h 55m,04:45,3.7,438,44 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,08h 30m,05:30,4.0,600,27 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Shatabdi Travels,A/C Seater / Sleeper (2+1),21:00,08h 00m,05:00,3.7,650,38 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Shri Sai Krishna Luxury,A/C Seater / Sleeper (2+1),21:15,08h 30m,05:45,3.9,600,46 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,08h 50m,04:50,1.6,656,26 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,08h 25m,04:55,3.2,600,27 Seats available
+Patna (Bihar) to Araria (Bihar),https://www.redbus.in/bus-tickets/patna-to-araria,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,08h 50m,05:50,1.6,700,19 Seats available
+Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),18:00,10h 00m,04:00,3.9,484,16 Seats available
+Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Pawapuri Motors,A/C Seater / Sleeper (2+1),17:30,09h 30m,03:00,2.8,675,14 Seats available
+Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Tejas Maa Bhawani,AC Sleeper (2+1),18:45,08h 40m,03:25,2.1,2500,2 Seats available
+Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Tejas Maa Bhawani,A/C Sleeper (2+1),19:05,08h 55m,04:00,2.1,1100,26 Seats available
+Muzaffarpur (Bihar) to Hazaribagh,https://www.redbus.in/bus-tickets/muzaffarpur-to-hazaribagh,Tejas Maa Bhawani,Non AC Seater (2+2),18:30,08h 00m,02:30,2.1,2000,41 Seats available
+Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Bihar state road transport corporation (BSRTC) - 152896,Non AC Seater (2+2),21:59,08h 01m,06:00,3.2,400,7 Seats available
+Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Rukmanti (AT),A/C Seater / Sleeper (2+1),20:00,09h 00m,05:00,2.9,508,35 Seats available
+Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Tiwari Motors,A/C Seater / Sleeper (2+1),20:00,09h 05m,05:05,2.0,499,47 Seats available
+Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Raj Rath,A/C Seater / Sleeper (2+2),21:00,09h 00m,06:00,2.5,425,24 Seats available
+Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,07h 30m,03:30,1.6,831,26 Seats available
+Patna (Bihar) to Saharsa,https://www.redbus.in/bus-tickets/patna-to-saharsa,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,07h 30m,04:30,1.6,875,19 Seats available
+Katihar to Patna (Bihar),https://www.redbus.in/bus-tickets/katihar-to-patna,Bihar state road transport corporation (BSRTC) - 156563,AC Seater (2+2),18:00,10h 00m,04:00,3.5,468,35 Seats available
+Katihar to Patna (Bihar),https://www.redbus.in/bus-tickets/katihar-to-patna,SOBHA TRAVELS (A.T),A/C Seater / Sleeper (2+1),20:00,09h 00m,05:00,1.8,550,30 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),22:01,08h 15m,06:16,2.9,1299,19 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),19:15,08h 59m,04:14,2.2,849,32 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Panwar Travels,A/C Seater / Sleeper (2+1),17:30,08h 10m,01:40,2.8,3500,22 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Chandani Travels,A/C Seater / Sleeper (2+2),19:30,07h 20m,02:50,2.7,1199,19 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Armaan Tour & Travels,A/C Seater / Sleeper (2+1),16:50,08h 40m,01:30,2.6,1999,1 Seat available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Shree Raj Akanshi travels,A/C Seater / Sleeper (2+1),13:30,07h 45m,21:15,3.8,1999,38 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),17:00,08h 00m,01:00,1.3,1529,46 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+2),20:00,07h 30m,03:30,1.3,1079,72 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Shree Balajee Travels And Cargo,A/C Sleeper (2+1),23:01,05h 00m,04:01,1.3,1799,36 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Panwar Travels,A/C Seater / Sleeper (2+1),23:10,07h 10m,06:20,2.8,970,31 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Bhumi Travels,A/C Seater / Sleeper (2+2),15:30,08h 15m,23:45,2.4,1699,41 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Panwar tour and Travels,A/C Seater / Sleeper (2+2),15:40,10h 20m,02:00,1.3,2339,46 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Jay Maa Kali Travels,Bharat Benz A/C Seater / Sleeper (2+2),16:00,08h 30m,00:30,1.9,3000,56 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),19:00,08h 00m,03:00,1.7,1500,56 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Travel Point World LLP,A/C Seater / Sleeper (2+2),20:20,07h 00m,03:20,1.6,1614,38 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Panwar tour and Travels,A/C Seater / Sleeper (2+2),15:40,10h 20m,02:00,1.3,2339,46 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Kusum Travels and Logistics,A/C Seater / Sleeper (2+1),17:30,08h 15m,01:45,1.4,2380.95,40 Seats available
+Gopalganj (Bihar) to Lucknow,https://www.redbus.in/bus-tickets/gopalganj-to-lucknow,Kusum Travels and Logistics,NON AC Seater / Sleeper 2+1,13:45,09h 30m,23:15,1.4,2500,43 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Bihar state road transport corporation (BSRTC) - 142847,AC Seater (2+2),21:25,06h 35m,04:00,3.7,450,36 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,07h 00m,04:25,3.9,648,30 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Divya Rath,A/C Sleeper (2+1),20:45,07h 00m,03:45,4.3,648,28 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Mahuli Travels,A/C Seater/Sleeper (2+1),20:50,07h 10m,04:00,3.7,450,47 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),18:25,07h 50m,02:15,3.5,463,23 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Raj Bus Services,Bharat Benz A/C Seater /Sleeper (2+1),20:35,07h 30m,04:05,3.5,463,20 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,06h 45m,03:05,3.1,513,48 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Chandralok Bus Service,A/C Seater / Sleeper (2+2),21:10,07h 20m,04:30,1.6,400,20 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,07h 30m,03:30,3.5,400,26 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Chandralok Bus Service,A/C Seater / Sleeper (2+2),21:00,07h 30m,04:30,3.5,500,24 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Raj Bus Services,A/C Seater / Sleeper (2+1),16:55,09h 10m,02:05,3.6,463,24 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Raj Bus Services,A/C Seater / Sleeper (2+1),19:25,08h 40m,04:05,1.6,463,26 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Maa Satyabhama Rath,A/C Seater / Sleeper (2+1),21:00,07h 45m,04:45,4.2,600,36 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,07h 30m,04:30,2.5,450,25 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Shatabdi Travels,A/C Seater / Sleeper (2+1),22:00,07h 45m,05:45,2.0,650,31 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Shatabdi Travels,A/C Seater / Sleeper (2+1),21:00,07h 45m,04:45,3.2,700,47 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Shree Sai Krishna Luxury,A/C Seater / Sleeper (2+1),21:15,08h 55m,06:10,2.3,650,42 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,07h 40m,04:10,0,600,43 Seats available
+Patna (Bihar) to Forbesganj,https://www.redbus.in/bus-tickets/patna-to-forbesganj,Aarush Krrish,A/C Seater / Sleeper (2+1),21:00,07h 00m,04:00,0,540,46 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),21:30,07h 30m,05:00,2.5,849,27 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:00,06h 45m,03:45,2.9,1399,20 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Panwar Travels,A/C Seater / Sleeper (2+1),21:30,06h 35m,04:05,2.8,950,31 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Gorakhdham Express Bus Service,A/C Seater / Sleeper (2+2),23:55,07h 35m,07:30,1.3,1395,17 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Apex Bus Travels,A/C Seater / Sleeper (2+2),23:00,09h 30m,08:30,1.5,1799,52 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Maa Laxmi Bihar Express,Non A/C Seater / Sleeper (2+1),22:30,09h 30m,08:00,1.3,2500,5 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),23:30,08h 00m,07:30,1.3,1349,47 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,New India Bus Service,A/C Seater / Sleeper (2+2),23:30,07h 30m,07:00,1.0,1699,23 Seats available
+Lucknow to Gopalganj (Bihar),https://www.redbus.in/bus-tickets/lucknow-to-gopalganj,Amar Jyoti Travels,A/C Seater / Sleeper (2+2),23:59,07h 01m,07:00,1.2,2500,26 Seats available
+Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),23:15,08h 15m,07:30,2.8,484,33 Seats available
+Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Pawapuri Motors,A/C Seater / Sleeper (2+1),21:45,08h 00m,05:45,1.5,765,9 Seats available
+Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),21:35,07h 55m,05:30,2.0,899,10 Seats available
+Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Tejas Maa Bhawani,A/C Sleeper (2+1),21:45,07h 30m,05:15,2.0,799,26 Seats available
+Hazaribagh to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/hazaribagh-to-muzaffarpur,Tejas Maa Bhawani,Non AC Seater (2+2),21:00,08h 30m,05:30,2.0,725,21 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,Panwar Travels,A/C Seater / Sleeper (2+1),15:40,10h 00m,01:40,4.3,3500,19 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),16:55,11h 19m,04:14,3.1,899,30 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,Panwar Travels,A/C Seater / Sleeper (2+1),21:35,08h 45m,06:20,4.3,970,31 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),17:35,09h 25m,03:00,1.7,1500,58 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,Travel Point World LLP,A/C Seater / Sleeper (2+2),18:20,09h 00m,03:20,1.6,1614,38 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),15:00,10h 00m,01:00,1.3,1529,34 Seats available
+Motihari to Lucknow,https://www.redbus.in/bus-tickets/motihari-to-lucknow,Shree Balajee Travels And Cargo,A/C Sleeper (2+1),21:31,06h 30m,04:01,1.3,1799,36 Seats available
+Muzaffarpur (Bihar) to Kathmandu,https://www.redbus.in/bus-tickets/muzaffarpur-to-kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),15:35,14h 40m,06:15,3.0,855,7 Seats available
+Muzaffarpur (Bihar) to Kathmandu,https://www.redbus.in/bus-tickets/muzaffarpur-to-kathmandu,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),15:14,14h 16m,05:30,4.3,876,4 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,Bihar state road transport corporation (BSRTC) - 153614,AC Seater (2+2),20:55,06h 35m,03:30,2.7,396,33 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:00,07h 45m,04:45,3.9,601,17 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,VIJAY RATH,A/C Seater / Sleeper (2+1),22:00,06h 00m,04:00,2.7,698,24 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,Mahuli Travels,A/C Seater/Sleeper (2+1),21:15,06h 35m,03:50,2.4,481,37 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,Chandralok Travels,A/C Seater / Sleeper (2+1),21:35,06h 25m,04:00,1.0,525,44 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),21:15,06h 15m,03:30,3.8,475,10 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,JGD Travels Pvt Ltd.,Bharat Benz A/C Sleeper (2+1),20:35,05h 40m,02:15,2.9,990,11 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,Toofan Deluxe,A/C Seater / Sleeper (2+2),18:30,06h 30m,01:00,2.4,600,32 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,Tejas Maa Bhawani,A/C Seater / Sleeper (2+2),18:15,07h 45m,02:00,2.1,899,10 Seats available
+Ranchi to Bihar Sharif,https://www.redbus.in/bus-tickets/ranchi-to-bihar-sharif,BD Parivahan,A/C Seater / Sleeper (2+2),22:00,05h 00m,03:00,1.5,1200,57 Seats available
+Motihari to Agra,https://www.redbus.in/bus-tickets/motihari-to-agra,Panwar Travels,A/C Seater / Sleeper (2+1),15:40,14h 35m,06:15,2.8,3500,19 Seats available
+Motihari to Agra,https://www.redbus.in/bus-tickets/motihari-to-agra,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),17:35,13h 55m,07:30,1.7,1500,54 Seats available
+Motihari to Agra,https://www.redbus.in/bus-tickets/motihari-to-agra,Thar Bus Service,A/C Sleeper (2+1),17:05,15h 25m,08:30,1.6,9522.86,34 Seats available
+Motihari to Agra,https://www.redbus.in/bus-tickets/motihari-to-agra,Travel Point World LLP,A/C Seater / Sleeper (2+2),18:20,12h 30m,06:50,1.3,1614,38 Seats available
+Motihari to Agra,https://www.redbus.in/bus-tickets/motihari-to-agra,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),15:00,15h 43m,06:43,0,1529,34 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Bihar state road transport corporation (BSRTC) - 160830,Non AC Seater (2+3),21:30,02h 31m,00:01,3.2,129,52 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),11:40,02h 00m,13:40,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),11:50,02h 00m,13:50,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),11:55,02h 00m,13:55,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),11:55,02h 00m,13:55,5.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),12:00,02h 00m,14:00,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),12:28,02h 00m,14:28,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),12:34,02h 00m,14:34,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),14:06,02h 00m,16:06,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),14:09,02h 00m,16:09,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),14:25,02h 00m,16:25,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),17:16,02h 00m,19:16,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),17:40,02h 00m,19:40,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),18:04,02h 00m,20:04,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),18:14,02h 00m,20:14,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),19:17,02h 00m,21:17,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sadhvi Rath,A/C Seater / Sleeper (2+1),20:20,02h 00m,22:20,3.1,513,48 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,NON A/C Seater (2+2),20:32,02h 00m,22:32,3.0,130,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Rohit Sewa,A/C Seater (2+2),11:40,02h 00m,13:40,1.0,150,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Ayan Benz,A/C Seater / Sleeper (2+1),20:00,03h 00m,23:00,2.0,315,42 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Super Pandav,Non AC Seater (2+2),11:43,02h 07m,13:50,1.2,180,45 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),12:15,02h 30m,14:45,1.6,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Super Pandav,Non AC Seater (2+2),12:39,02h 01m,14:40,1.6,180,45 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,New Travel India,A/C Seater Push Back (2+2),12:45,02h 05m,14:50,2.7,200,40 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Super Pandav,Non AC Seater (2+2),12:46,02h 04m,14:50,1.2,180,45 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),13:00,02h 30m,15:30,1.2,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Super Pandav,Non AC Seater (2+2),13:33,02h 00m,15:33,1.9,180,45 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Alok Travels,A/C Seater (2+2),15:00,02h 00m,17:00,3.4,150,41 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),15:30,02h 30m,18:00,4.0,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),16:00,02h 30m,18:30,3.4,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),16:00,02h 30m,18:30,3.4,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Alok Travels,A/C Seater (2+2),16:14,02h 00m,18:14,4.0,150,41 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),17:30,02h 30m,20:00,4.0,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Hanuman Travels,A/C Seater / Sleeper (2+2),22:20,01h 55m,00:15,2.4,495,54 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),18:30,02h 30m,21:00,2.8,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,New Travel India,A/C Seater Push Back (2+2),18:45,02h 15m,21:00,1.6,200,40 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,New Travel India,A/C Seater Push Back (2+2),18:55,01h 55m,20:50,2.3,200,36 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Super Pandav,Non AC Seater (2+2),18:58,02h 02m,21:00,1.9,180,45 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Jagdish Shiv Dulari,Leyland A/C Seater Executive (2+2),19:00,02h 30m,21:30,1.6,150,53 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sree Balaji Travels,A/C Seater / Sleeper (2+1),20:15,02h 15m,22:30,2.4,150,15 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sri Krishna Tours and Travels,A/C Seater Push Back (2+2),12:00,03h 50m,15:50,0,300,17 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Aman Rath,A/C Seater / Sleeper (2+1),20:15,02h 00m,22:15,0,500,13 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+1),20:25,01h 50m,22:15,0,650,31 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sri Krishna Tours and Travels,A/C Seater / Sleeper (2+2),20:30,02h 20m,22:50,0,550,44 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Aman Rath,A/C Seater / Sleeper (2+1),20:45,02h 00m,22:45,0,500,13 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),21:25,02h 20m,23:45,0,648,36 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),13:53,02h 50m,16:43,0,400,12 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Panwar Travels,A/C Seater / Sleeper (2+1),18:10,02h 20m,20:30,0,970,32 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sri Krishna Rath,A/C Seater / Sleeper (2+2),20:00,02h 00m,22:00,0,656,26 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Royal Sundram,A/C Seater / Sleeper (2+1),20:15,02h 00m,22:15,0,600,52 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sree Balaji Travels,NON A/C Seater / Sleeper (2+2),20:30,02h 00m,22:30,0,405,22 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:00,02h 00m,23:00,0,700,19 Seats available
+Patna (Bihar) to Muzaffarpur (Bihar),https://www.redbus.in/bus-tickets/patna-to-muzaffarpur,Jai Mata Di Tour and Travels,A/C Seater / Sleeper (2+2),22:40,01h 50m,00:30,0,450,28 Seats available
+Agra to Motihari,https://www.redbus.in/bus-tickets/agra-to-motihari,Panwar Travels,A/C Sleeper (2+1),21:45,19h 45m,17:30,2.8,2500,36 Seats available
+Agra to Motihari,https://www.redbus.in/bus-tickets/agra-to-motihari,Shree Balajee Travels And Cargo,NON A/C Seater/ Sleeper (2+1),21:30,0-6h 00m,15:30,1.3,1350,40 Seats available
+Agra to Motihari,https://www.redbus.in/bus-tickets/agra-to-motihari,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),18:00,15h 00m,09:00,1.3,1349,47 Seats available
+Lucknow to Motihari,https://www.redbus.in/bus-tickets/lucknow-to-motihari,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),21:30,10h 00m,07:30,3.0,899,27 Seats available
+Lucknow to Motihari,https://www.redbus.in/bus-tickets/lucknow-to-motihari,Panwar Travels,A/C Seater / Sleeper (2+1),21:30,09h 50m,07:20,4.3,950,31 Seats available
+Lucknow to Motihari,https://www.redbus.in/bus-tickets/lucknow-to-motihari,New India Bus Service,A/C Seater / Sleeper (2+2),23:30,09h 30m,09:00,1.0,1699,22 Seats available
+Motihari to Kathmandu,https://www.redbus.in/bus-tickets/motihari-to-kathmandu,Bihar state road transport corporation (BSRTC) - 166033,A/C Seater Hi-Tech Push Back (2+2),17:10,13h 05m,06:15,2.8,685,7 Seats available
+Motihari to Kathmandu,https://www.redbus.in/bus-tickets/motihari-to-kathmandu,V.I.P Travels,A/C Seater Hi-Tech Push Back (2+2),16:15,13h 15m,05:30,1.5,700,4 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Bihar state road transport corporation (BSRTC) - 153594,AC Seater (2+2),20:41,08h 50m,05:31,2.8,466,16 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Rekha Luxury,A/C Seater / Sleeper (2+1),20:00,08h 45m,04:45,3.2,580,20 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Sri Sai ( Jharkhand Paryatak),A/C Seater / Sleeper (2+1),20:00,09h 30m,05:30,2.7,473,18 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Rajdhani bus service,Non A/C Seater / Sleeper (2+1),18:30,07h 45m,02:15,3.3,555,37 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Puja Rath,A/C Seater / Sleeper (2+1),21:00,07h 00m,04:00,2.4,540,21 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Chandralok Travels,A/C Seater / Sleeper (2+1),21:20,08h 10m,05:30,2.1,525,47 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Maharani Express,A/C Seater / Sleeper (2+2),18:00,08h 20m,02:20,2.3,720,36 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Sri Krishna Rath,A/C Seater / Sleeper (2+2),21:15,07h 00m,04:15,1.6,438,20 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Sri Krishna Rath,A/C Seater / Sleeper (2+1),22:15,07h 00m,05:15,1.6,569,17 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,MAA SHANTI TRAVELS,A/C Seater/Sleeper (2+1),21:25,07h 40m,05:05,2.6,694,47 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,MAA SHANTI TRAVELS,A/C Seater / Sleeper (2+1),20:27,07h 18m,03:45,3.8,925,31 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Pappu Travels (yvts),A/C Seater/Sleeper (2+1),21:30,07h 00m,04:30,3.0,800,10 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Arzoo Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,07h 00m,03:30,2.3,570,1 Seat available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Tejas Maa Bhawani,AC Sleeper (2+1),21:30,07h 00m,04:30,2.1,2500,2 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Tejas Maa Bhawani,A/C Sleeper (2+1),21:30,07h 30m,05:00,2.1,1100,26 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Tejas Maa Bhawani,Non AC Seater (2+2),21:30,06h 20m,03:50,2.1,2000,41 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,BD Parivahan,A/C Seater / Sleeper (2+2),19:00,08h 00m,03:00,1.5,1200,57 Seats available
+Patna (Bihar) to Ramgarh (Jharkhand),https://www.redbus.in/bus-tickets/patna-to-ramgarh-jharkhand,Babuan Motors,A/C Seater / Sleeper (2+1),19:00,07h 00m,02:00,1.3,500,19 Seats available
