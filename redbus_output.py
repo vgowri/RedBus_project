@@ -23,7 +23,7 @@ def fetch_data(data, route_name, price_sort_order, star_rating_filter,selected_b
     data['Bus_Type'] = pd.to_numeric(data['Bus_Type'], errors='coerce')
 
     # Sort data by price ,bus_type and rating
-    sorted_data = data[data['Route_Name'] == route_name].sort_values(by=['Rating', 'Fare','Bus_Type'], ascending=[False, price_sort_order == "Low to High"])
+    sorted_data = data[data['Route_Name'] == route_name].sort_values( by=['Rating', 'Fare', 'Bus_Type'],ascending=[False, price_sort_order == "Low to High", True])
     
     # Filter by star rating if specified
     if star_rating_filter:
