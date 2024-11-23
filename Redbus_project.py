@@ -107,11 +107,15 @@ cursor.execute(create_table_query)
 # Strip column names
 data.rename(columns=lambda x: x.strip(), inplace=True)
 
-# Assign unique IDs if missing
-if 'id' not in data.columns:
-    data['id'] = range(1, len(data) + 1)
+print(data.columns) 
+data.columns = ['id', 'id_duplicate', 'Route_Name', 'Route_Link', 
+                'Bus_Name', 'Bus_Type', 'Departing_Time', 
+                'Duration', 'Arrival', 'Rating', 'Fare', 'Seat_Available']
 
-data['id'] = pd.to_numeric(data['id'], errors='coerce').fillna(0).astype(int)
+
+print(data[['id', 'id_duplicate']].head())
+data = data.drop(columns=['id_duplicate'])
+
 
 # Insert or update rows in the database
 insert_query = """
@@ -147,7 +151,7 @@ print(data.info())
 
 for _, row in data.iterrows():
     cursor.execute(insert_query, (
-        row['id'],
+        int(row['id']),
         row['Route_Name'], 
         row['Route_Link'], 
         row['Bus_Name'], 
